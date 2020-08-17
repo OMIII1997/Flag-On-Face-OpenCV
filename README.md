@@ -10,6 +10,7 @@ By using CascadeClassifiers for Left and Right eye dectection co-ordinates are f
 
 # Results
 Flag image to be masked on face.
+
 ![alt text](https://github.com/OMIII1997/Flag-On-Face-OpenCV/blob/master/flag.png)
 ![alt text](https://github.com/OMIII1997/Flag-On-Face-OpenCV/blob/master/Images/Screenshot%20(83).png)
 ![alt text](https://github.com/OMIII1997/Flag-On-Face-OpenCV/blob/master/Images/Screenshot%20(84).png)
